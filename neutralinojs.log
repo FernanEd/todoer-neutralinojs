@@ -1,0 +1,10 @@
+ERROR 2021-12-08 22:19:24,450 Unable to open ./global.css api/debug/debug.cpp:15 fernaned@unknown-host
+ERROR 2021-12-08 22:19:24,455 Unable to open ./build/bundle.css api/debug/debug.cpp:15 fernaned@unknown-host
+ERROR 2021-12-08 22:19:24,460 Unable to open ./build/bundle.js api/debug/debug.cpp:15 fernaned@unknown-host
+ERROR 2021-12-08 22:19:52,197 Unable to open ./global.css api/debug/debug.cpp:15 fernaned@unknown-host
+ERROR 2021-12-08 22:19:52,202 Unable to open ./build/bundle.css api/debug/debug.cpp:15 fernaned@unknown-host
+ERROR 2021-12-08 22:19:52,203 Unable to open ./build/bundle.js api/debug/debug.cpp:15 fernaned@unknown-host
+ERROR 2021-12-08 22:21:31,646 Unable to open ./global.css api/debug/debug.cpp:15 fernaned@unknown-host
+ERROR 2021-12-08 22:21:31,653 Unable to open ./build/bundle.css api/debug/debug.cpp:15 fernaned@unknown-host
+ERROR 2021-12-08 22:21:31,654 Unable to open ./build/bundle.js api/debug/debug.cpp:15 fernaned@unknown-host
+ERROR 2021-12-08 22:22:38,121 Unable to open ./build/bundle.js api/debug/debug.cpp:15 fernaned@unknown-host
